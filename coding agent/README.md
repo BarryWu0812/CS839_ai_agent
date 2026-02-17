@@ -139,7 +139,7 @@ The agent supports:
 All file tools are restricted to the current workspace directory.
 
 ## Example Projects Built by the Agent
-- `examples/itinerary_planner`: itinerary planner that takes city, days, and outputs Markdown.
+- itinerary_planner`: itinerary planner that takes city, days, and outputs Markdown.
 
 ## Notes
 - This project intentionally avoids agent frameworks (LangChain, CrewAI, etc.).
